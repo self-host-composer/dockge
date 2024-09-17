@@ -86,7 +86,7 @@
         "sass": "~1.68.0",
         "typescript": "~5.2.2",
         "unplugin-vue-components": "~0.25.2",
-        "vite": "~5.0.10",
+        "vite": "~5.2.14",
         "vite-plugin-compression": "~0.5.1",
         "vue": "~3.3.13",
         "vue-eslint-parser": "~9.3.2",
